@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Globe from 'react-globe.gl';
 import { color } from 'three/webgpu';
 import Button from '../components/Button';
+import resume from '/assets/Abangan_Dan_Rikster-Resume.pdf';
 
 const About = () => {
     const [hasCopied, setHasCopied] = useState(false);
@@ -80,8 +81,11 @@ const About = () => {
                             <p className="grid-subtext">
                                 I'm from the Philippines. With remote work, I'm always available!
                             </p>
-                            <a href="#contact">
+                            {/* <a href="#contact">
                                 <Button name="Contact Me" isBeam containerClass="w-full mt-10" />
+                            </a> */}
+                            <a href={resume} download="Dan Abangan Resume">
+                                <Button name="Dan's Resume" isBeam containerClass="w-full mt-10" />
                             </a>
                         </div>
                     </div>

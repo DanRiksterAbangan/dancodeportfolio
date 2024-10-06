@@ -20,7 +20,7 @@ export const navLinks = [
       href: '#contact',
     },
   ];
-  
+
   export const clientReviews = [
     {
       id: 1,
