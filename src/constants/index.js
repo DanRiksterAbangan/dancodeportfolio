@@ -136,7 +136,7 @@ export const navLinks = [
       desc: 'A School Management System that offers a robust school management system designed to streamline administrative tasks and enhance the educational experience for students, teachers, and parents alike. This innovative platform provides a centralized hub for managing academic records, attendance, grades, and communication, ensuring that every aspect of school life is efficiently organized.',
       subdesc:
         'As the Professional Academy of the Philippines embraces technology, it empowers educators and students to reach their full potential in a dynamic learning environment.',
-      href: 'https://www.behance.net/gallery/208435763/Professional-Academy-of-the-Philippines',
+      href: 'https://papwebsite.netlify.app/',
       texture: '/textures/project/papWebsite.mp4',
       logo: '/assets/project-logo3.png',
       logoStyle: {
