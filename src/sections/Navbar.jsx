@@ -25,7 +25,7 @@ const Navbar = () => {
             <div className="max-w-7xl">
                 <div className="flex justify-between items-center py-5 mx-auto c-space">
                     <a href="/" className="flex space-between gap-3 items-center justify-center align-center text-neutral-400 font-bold text-xl hover:text-white transition-colors">
-                        <img src="/assets/danLogoNoBG.png" alt="Dan Logo" className="h-10 w-10" />
+                        <img src="/assets/danLogoNoBG.png" alt="Dan Logo" className="h-10 w-14" />
                         Dan
                     </a>
 
