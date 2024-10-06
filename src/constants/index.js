@@ -64,7 +64,7 @@ export const navLinks = [
         'Browse my projects to discover how I can help elevate your online presence and brand identity!',
       href: 'https://www.behance.net/gallery/162767987/Personal-Portfolio',
       texture: '/textures/project/personalPortfolio.mp4',
-      logo: '/assets/project-logo1.png',
+      logo: '/assets/danLogoNoBG.png',
       logoStyle: {
         backgroundColor: '#2A1816',
         border: '0.2px solid #36201D',
@@ -101,7 +101,7 @@ export const navLinks = [
         'In Death Oath, a vibrant community of fierce competitors thrives, forging alliances and engaging in tactical combat that tests their skills and wits. Whether players are seasoned warriors or newcomers, they find themselves drawn to the ultimate oath—victory.',
       href: 'https://isfet7.github.io./html/home.html',
       texture: '/textures/project/deathOath.mp4',
-      logo: '/assets/project-logo2.png',
+      logo: '/assets/deathOathLogoNoBG.png',
       logoStyle: {
         backgroundColor: '#13202F',
         border: '0.2px solid #17293E',
@@ -138,7 +138,7 @@ export const navLinks = [
         'As the Professional Academy of the Philippines embraces technology, it empowers educators and students to reach their full potential in a dynamic learning environment.',
       href: 'https://papwebsite.netlify.app/',
       texture: '/textures/project/papWebsite.mp4',
-      logo: '/assets/project-logo3.png',
+      logo: '/assets/houseNoBG.png',
       logoStyle: {
         backgroundColor: '#60f5a1',
         background:
@@ -214,7 +214,7 @@ export const navLinks = [
         'With a user-friendly layout, Dan invites viewers to explore his carefully curated portfolio, featuring standout projects that reflect his technical expertise and artistic vision.',
       href: '#',
       texture: '/textures/project/personalPortfolioWebsite.mp4',
-      logo: '/assets/project-logo5.png',
+      logo: '/assets/danLogoNoBG.png',
       logoStyle: {
         backgroundColor: '#1C1A43',
         border: '0.2px solid #252262',

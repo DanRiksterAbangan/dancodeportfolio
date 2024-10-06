@@ -17,18 +17,26 @@ const Footer = () => {
 
             <div className="flex gap-3">
                 <div className="social-icon">
-                    <img src="/assets/github.svg" alt="Github" className="w-1/2 h-1/2" />
+                    <a href="https://www.facebook.com/DanAcademicsAccount" target="_blank" className="flex justify-center align-center texts-center">
+                    <img src="/assets/facebook.svg" alt="Facebook" className="w-1/2 h-1/2" />
+                    </a>
                 </div>
+
                 <div className="social-icon">
-                    <img src="/assets/twitter.svg" alt="Twitter" className="w-1/2 h-1/2" />
+                    <a href="https://www.behance.net/danriksterabangan" target="_blank" className="flex justify-center align-center texts-center">
+                        <img src="/assets/behance.svg" alt="Behance" className="w-1/2 h-1/2" />
+                    </a>
                 </div>
+
                 <div className="social-icon">
-                    <img src="/assets/instagram.svg" alt="Instagram" className="w-1/2 h-1/2" />
+                    <a href="https://www.linkedin.com/in/dan-rikster-abangan-2557a5262/" target="_blank" className="flex justify-center align-center texts-center">
+                        <img src="/assets/linkedin.svg" alt="LinkedIn" className="w-1/2 h-1/2" />
+                    </a>
                 </div>
             </div>
 
             <p className="text-white-500">
-                &copy; 2024 Dan Rikster Abangan. All Rights Reserved.
+                &copy; 2024 <a href="https://www.facebook.com/DanAcademicsAccount" target="_blank" className="hover:underline"> Dan Rikster Abangan. </a> All Rights Reserved.
             </p>
         </section>
     )
