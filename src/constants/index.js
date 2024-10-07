@@ -48,11 +48,11 @@ export const navLinks = [
     },
     {
       id: 4,
-      name: 'Jasten Lapay',
+      name: 'Justine Lapay',
       position: "CEO of J's Flower Shop and J Baking Co.",
       img: 'assets/review4.jpg',
       review:
-        'Working with Dan was a delight. He grasped our requirements flawlessly and created a website that went beyond our expectations. His skills in both frontend and backend development are outstanding.',
+        'Working with Dan was a delight. He grasped our requirements flawlessly and created a website that went beyond our expectations. His skills in both frontend and backend development are outstanding. I love you.',
     },
   ];
   
