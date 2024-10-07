@@ -177,7 +177,7 @@ export const navLinks = [
         'The website also presents a comparative analysis of different security models, equipping users with the knowledge needed to implement effective security strategies in their environments.',
       href: 'https://ossbydan.netlify.app/',
       texture: '/textures/project/ossByDan.mp4',
-      logo: '/assets/project-logo4.png',
+      logo: '/assets/danLogoNoBG.png',
       logoStyle: {
         backgroundColor: '#0E1F38',
         border: '0.2px solid #0E2D58',
