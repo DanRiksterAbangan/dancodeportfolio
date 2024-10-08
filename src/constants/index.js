@@ -282,7 +282,7 @@ export const navLinks = [
       pos: 'Quality Assurance Analyst',
       duration: '2021 - 2021',
       title: "TLB Venture Corp. has taught me a lot of things and made me appreciate the beauty of coding. TLB Ventures Corp. showed me the importance of Quality Assurance in developing websites and applications.",
-      icon: '/assets/tlb.jpeg',
+      icon: '/assets/tlb.png',
       animation: 'salute',
     },
   ];
